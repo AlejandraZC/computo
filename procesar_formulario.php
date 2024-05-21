@@ -1,5 +1,5 @@
 <?php
-$servername = "servidorproyecto.mysql.database.azure.com";
+$servername = "servidorproyect.mysql.database.azure.com";
 $username = "admi";
 $password = "Aezc.150903.";
 $dbname = "dbproyecto2";
