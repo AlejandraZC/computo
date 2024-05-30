@@ -2,7 +2,7 @@
 <?php
 $servername = "servidorproyecto.mysql.database.azure.com";
 $username = "Admi";
-$password = "Edgar270901##$";
+$password = "Aezc.150903.";
 $dbname = "dbproyecto2";
 
 // Crear conexión
